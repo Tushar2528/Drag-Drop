@@ -4,7 +4,7 @@ This is a simple drag and drop example demonstrating how to implement drag and d
 
 ## Demo
 
-You can see the live demo of this drag and drop example - 
+You can see the live demo of this drag and drop example - https://tushar2528.github.io/Drag-Drop/
 
 ## Features
 
